@@ -1,0 +1,70 @@
+body {
+    background-color: azure;
+    padding: 50px;
+}
+.resume{
+    border: 3px solid black;
+    height: 1300px;
+    padding: 30px;
+}
+.resume h2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.left h1{
+    background-color: cadetblue;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    width: max-content;
+}
+.left{
+    font-size: x-large;
+    font-weight: bolder;
+}
+.left img {
+    float: right;
+    width: 250px;
+    height: 250px;
+    border-radius: 50px 50px 50px 50px;
+}
+.obj h1{
+    background-color: cadetblue;
+    text-align: center;
+}
+.obj p{
+    font-size: x-large;
+    font-weight: 9px;
+}
+.ed h1{
+    background-color: cadetblue;
+    text-align: center;
+}
+.ed p{
+    font-size: x-large;
+    font-weight: 9px;
+}
+.sk h1{
+    background-color: cadetblue;
+    text-align: center;
+}
+.sk p{
+    font-size: x-large;
+    font-weight: 9px;
+}
+.btn{
+    font-weight: bolder;
+    font-size: x-large;
+    height: 40px;
+}
+.we h1{
+    background-color: cadetblue;
+    text-align: center;
+}
+.we p{
+    font-size: x-large;
+    font-weight: 9px;
+}
+.we h3{
+    font-size: x-large;
+}
